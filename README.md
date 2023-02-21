@@ -8,7 +8,10 @@ This template should help get you started developing with Tauri, Next.js and Typ
 
 ## Build STEPS
 
-```
-pnpm install
+### Install Tauri
+https://tauri.app/
+
+```bash
+pnpm install # run only once
 pnpm tauri build
 ```
